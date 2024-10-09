@@ -6,10 +6,9 @@ import (
 	"os"
 	"time"
 
+	"github.com/33arc/raft-kv/src/node"
+	"github.com/33arc/raft-kv/src/server"
 	"github.com/jessevdk/go-flags"
-
-	"github.com/alexander-akhmetov/raft-example/src/node"
-	"github.com/alexander-akhmetov/raft-example/src/server"
 )
 
 // Opts represents command line options

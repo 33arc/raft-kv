@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/alexander-akhmetov/raft-example/src/node"
+	"github.com/33arc/raft-kv/src/node"
 	"github.com/gin-gonic/gin"
 )
 
